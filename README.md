@@ -1,3 +1,6 @@
+
+### Welcome, Humans and Robots! 
+
 ```python3
 me = {name: 'Gustavo',
       age: 19,
