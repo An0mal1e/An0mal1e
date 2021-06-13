@@ -4,7 +4,7 @@ me = {name: 'Gustavo',
       hobby: 'Games and Code',
       education: 'Computer Science',
       job: 'Python Developer',
-      languages: ['Português', 'English'],
+      languages: ['Portuguese', 'English'],
       programming: ['Python', 'ShellScript'],
       social: {'Instagram': 'gusta.doc', 'Email': 'gustavocode18@gmail.com'}}
 ```
