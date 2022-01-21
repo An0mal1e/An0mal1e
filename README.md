@@ -12,4 +12,4 @@ I started my degree in Computer Science in 2020 but was already working as a Fre
 
 ### Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=An0mal1e5&show_icons=true&theme=gotham"/> <img align="center" margin-left="3" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An0mal1e&layout=default&theme=gotham"/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=An0mal1e&show_icons=true&theme=gotham"/> <img align="center" margin-left="3" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An0mal1e&layout=default&theme=gotham"/> 
