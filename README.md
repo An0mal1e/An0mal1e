@@ -14,7 +14,7 @@ I started out wanting to be a game developer, but over time I discovered Linux, 
 I'm a python developer but my heart is in cybersecurity.
 
 - :basketball_man: I love Basketball and i play when i have time!
-- :desktop_computer: I love games! 
+- :desktop_computer: I love Games! 
 
 ### Stats
 
