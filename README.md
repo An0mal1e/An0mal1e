@@ -6,8 +6,6 @@
 
 ## About me
 
-Hello there!
-
 I'm Gustavo "An0mal1e" Oliveira!
 
 I started out wanting to be a game developer, but over time I discovered Linux, Python, Cybersecurity, and other technology topics.
