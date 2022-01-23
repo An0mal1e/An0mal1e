@@ -9,6 +9,7 @@
 I'm Gustavo "An0mal1e" Oliveira!
 
 I started out wanting to be a game developer, but over time I discovered Linux, Python, Cybersecurity, and other technology topics.
+
 I'm a python developer but my heart is in cybersecurity.
 
 - :basketball_man: I love Basketball and i play when i have time!
