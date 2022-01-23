@@ -6,9 +6,15 @@
 
 ## About me
 
-I started my degree in Computer Science in 2020 but was already working as a Freelancer at Unity Engine in 2019, after that, I ended up discovering Linux, Python, and the open-source community that I admire and am part of.
+Hello there!
 
-- 👨‍🏫  I’m Python Developer at <a target="_blank" href="https://nexfar.com.br/#/">Nexfar</a>
+I'm Gustavo "An0mal1e" Oliveira!
+
+I started out wanting to be a game developer, but over time I discovered Linux, Python, Cybersecurity, and other technology topics.
+I'm a python developer but my heart is in cybersecurity.
+
+- :basketball_man: I love Basketball and i play when i have time!
+- :desktop_computer: I love games! 
 
 ### Stats
 
