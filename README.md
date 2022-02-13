@@ -6,11 +6,13 @@
 
 ## About me
 
-I'm Gustavo "An0mal1e" Oliveira!
+I'm Gustavo "An0mal1e" Menezes!
 
 I started out wanting to be a game developer, but over time I discovered Linux, Python, Cybersecurity, and other technology topics.
 
 I'm a python developer but my heart is in cybersecurity.
+
+My Blog: [gustavomenezes.dev](https://gustavomenezes.hashnode.dev/)
 
 - :basketball_man: I love Basketball and i play when i have time!
 - :desktop_computer: I love Games! 
